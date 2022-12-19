@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.ReverseStringTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-19T05:05:31" hostname="SotanoMacBook-Pro.local" time="0.023">
-  <properties/>
-  <testcase name="reverseString()" classname="org.example.ReverseStringTest" time="0.023"/>
-  <system-out><![CDATA[hello
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

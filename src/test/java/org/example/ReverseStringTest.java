@@ -13,6 +13,6 @@ class ReverseStringTest {
     void reverseString() {
         ReverseString reverseString = new ReverseString();
         char [] output = reverseString.reverseString(input);
-        Assertions.assertEquals(output, input);;
+        Assertions.assertEquals(output, expected);;
     }
 }
